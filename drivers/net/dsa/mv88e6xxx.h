@@ -361,6 +361,7 @@ enum mv88e6xxx_model {
 	MV88E6350,
 	MV88E6351,
 	MV88E6352,
+	MV88E6141,
 };
 
 enum mv88e6xxx_family {
